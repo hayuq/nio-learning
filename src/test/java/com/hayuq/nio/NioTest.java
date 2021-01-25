@@ -1,5 +1,7 @@
 package com.hayuq.nio;
 
+import com.hayuq.nio.http.NioHttpServer;
+
 import java.io.IOException;
 
 public class NioTest {
